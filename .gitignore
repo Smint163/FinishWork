@@ -1,0 +1,10 @@
+bin/
+obj/
+FinishWork.csproj/
+bin/Debug/net6.0/FinishWork.deps.json
+bin/Debug/net6.0/FinishWork.dll
+bin/Debug/net6.0/FinishWork.exe
+bin/Debug/net6.0/FinishWork.pdb
+bin/Debug/net6.0/FinishWork.runtimeconfig.json
+obj/Debug/net6.0/FinishWork.dll
+obj/Debug/net6.0/FinishWork.pdb
